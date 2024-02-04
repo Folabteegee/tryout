@@ -11,13 +11,15 @@
 .hero_img {
   width: 80%;
   /* margin-top: 60; */
+  min-height: 70vh;
   color: white;
   background-repeat: no-repeat;
   font-size: 20px;
   border-radius: 8px;
 }
 .hero_content {
-  padding-top: 150px;
+  padding-top: 400px;
+  max-width: 440px;
   font-family: "Playfair Display";
   padding-left: 40px;
 }
