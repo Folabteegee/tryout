@@ -1,0 +1,46 @@
+.hero {
+  background-repeat: no-repeat;
+}
+
+.herosection_heading {
+  font-size: 20px;
+  font-family: "Roboto";
+  margin-left: 80px;
+}
+
+.hero_img {
+  width: 80%;
+  /* margin-top: 60; */
+  color: white;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  border-radius: 8px;
+}
+.hero_content {
+  padding-top: 150px;
+  font-family: "Playfair Display";
+  padding-left: 40px;
+}
+.image_wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 74px;
+}
+.hero_content_2 {
+  font-family: "Playfair Display";
+  font-size: 14px;
+  line-height: 30px;
+  color: grey;
+  width: 18%;
+}
+.hero_content_down {
+  display: flex;
+  gap: 30px;
+  padding-left: 40px;
+  font-size: 12px;
+  font-family: "Roboto";
+}
+.nisi {
+  font-size: 40px;
+  font-weight: 100;
+}

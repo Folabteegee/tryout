@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,16 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+a,
+a:link,
+a:visited {
+  text-decoration: none;
+  /* color: inherit;
+  cursor: pointer; */
+}
+
+body {
+  background-repeat: no-repeat;
 }

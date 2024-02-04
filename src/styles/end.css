@@ -1,0 +1,23 @@
+.end {
+  margin: 60px 80px 0 80px;
+  font-size: 20px;
+}
+.end_heading {
+  font-family: "Roboto";
+}
+.end_content {
+  font-size: 17px;
+  font-weight: 700;
+}
+.end_content_down {
+  display: flex;
+  gap: 30px;
+  font-size: 12px;
+  font-weight: 100;
+  font-family: "Roboto";
+  color: #949494;
+}
+.end_img {
+  width: 270px;
+  height: 176px;
+}

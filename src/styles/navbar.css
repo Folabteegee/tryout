@@ -1,0 +1,33 @@
+.nav_links {
+  display: flex;
+  gap: 10px;
+
+  align-items: center;
+}
+.nav_icons {
+  display: flex;
+  gap: 30px;
+}
+.news {
+  border-radius: 4px;
+  padding: 8px;
+  color: white;
+  background: black;
+}
+
+.nav {
+  display: flex;
+
+  justify-content: space-between;
+  padding: 40px 78px;
+}
+/* .search {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+.option {
+  position: absolute;
+  right: 95px;
+  top: 50px;
+} */
